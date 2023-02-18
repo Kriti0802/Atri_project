@@ -1,0 +1,615 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.p-start.Button2 {
+    font-family: 'DM Sans', sans-serif;
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+    cursor: pointer;
+    user-select: none;
+    height: 2rem;
+    width: 8rem;
+    margin: auto;
+    padding: 2px;
+
+
+}
+
+.p-start.Button1 {
+    outline: none;
+    font-weight: 500;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #cccccc;
+    cursor: pointer;
+    user-select: none;
+    height: 2rem;
+    width: 8rem;
+    font-family: 'DM Sans', sans-serif;
+    margin: auto;
+    padding: 2px;
+    margin-right: 90px;
+}
+
+
+.p-start.Flex2 {
+    font-family: 'DM Sans', sans-serif;
+}
+.p-start-TextBox3{
+    transform: translateX(0.25em);
+    color: rgb(92, 255, 51) ;
+    box-shadow: 0 0.5em 0.5em -0.4em #7f5cff;
+}
+
+// .p-start.Button2:hover {
+//     transform: scale(1.1);
+
+// }
+
+.p-start.Flex27 {
+    //font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    flex: 3;
+    // align-items: flex-start;
+}
+
+// .p-start.Flex28{
+//     //font-family: 'DM Sans', sans-serif;
+//     // font-weight: 500;
+//    flex: 1;
+//     // align-items: flex-start;
+// }
+
+.p-start.TextBox21 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+}
+
+.p-start.TextBox20 {
+    color: #FF7629;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox24 {
+    width: 70%;
+}
+
+.p-start.Flex52 {
+    display: flex;
+    column-gap: 30px;
+}
+
+.p-start.Button44 {
+    font-weight: 500;
+    border-style: none;
+    user-select: none;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.p-start.Button41 {
+    user-select: none;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+}
+
+.p-start.Flex69 {
+    // display: flex;
+    // flex:1;
+    background-color: #FF7629;
+
+}
+
+.p-start.Image5 {
+    right: 200px;
+}
+
+.p-start.Image4 {
+    right: 200px;
+}
+
+.p-start.Flex70 {
+
+    // justify-content: center;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+}
+
+// .p-start.Flex74{
+//     column-gap: 60px;
+// }
+.p-start.TextBox27 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    // font-size: 25px;
+}
+
+.p-start.TextBox28 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox29 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox31 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox32 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox33 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox34 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox35 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox36 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox38 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox39 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox40 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.Button48 {
+    font-family: 'DM Sans', sans-serif;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+
+.p-start.Button47 {
+    font-family: 'DM Sans', sans-serif;
+    user-select: none;
+    border-style: solid;
+
+}
+
+.p-start.Flex196 {
+    flex: 2;
+
+}
+
+.p-start.Flex219 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    top: 200px;
+    right: 300px;
+}
+
+.p-start.TextBox44 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.Flex279 {
+    flex-grow: 1;
+}
+
+.p-start.TextBox53 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox54 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.Flex397 {
+    top: 60px;
+    left: 60px;
+
+}
+
+.p-start.Flex400 {
+    top: 60px;
+    left: 60px;
+
+}
+
+.p-start.TextBox55 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox58 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.Flex408 {
+    top: 60px;
+    left: 60px;
+
+}
+
+.p-start.TextBox61 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox61 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox68 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox68 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox70 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox71 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox72 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox73 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.Flex409 {
+    top: 60px;
+    left: 60px;
+
+}
+
+.p-start.Button51 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+
+.p-start.Button50 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+
+.p-start.TextBox74 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox74 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.Button52 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+
+.p-start.Button55 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+
+.p-start.TextBox77 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox78 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox100 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox101 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox102 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox105 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.Button56 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+
+.p-start.Button57 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+
+.p-start.TextBox108 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox110 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox111 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox112 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox114 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+// .p-start.TextBox115{
+//     font-family: 'DM Sans', sans-serif;
+//     font-weight:700;
+
+// }
+.p-start.TextBox116 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox117 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox120 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox121 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox122 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox123 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox125 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox126 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.Flex542 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    right: 140px;
+
+}
+
+// .p-start.Input5 {
+//     font-variant: tabular-nums;
+// }
+
+
+.p-start.Button58 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    user-select: none;
+    border-style: none;
+    outline: none;
+
+}
+.p-start.TextBox134 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+.p-start.TextBox138 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+.p-start.TextBox148 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+.p-start.TextBox139 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+.p-start.TextBox140 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+
+.p-start.TextBox141 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}.p-start.TextBox144 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+.p-start.TextBox145 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+.p-start.TextBox146 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+.p-start.Flex576 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+   
+
+}
+.p-start.Flex577 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+   
+
+}
+.p-start.TextBox157 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+
+}
+.p-start.Image85 {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+
+}
+.p-start.Flex591 {
+    // font-family: 'DM Sans', sans-serif;
+    // font-weight: 500;
+    flex-grow: 1;
+   
+
+}

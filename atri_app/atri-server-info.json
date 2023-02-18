@@ -1,0 +1,18 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/Home": {
+      "name": "Home"
+    },
+    "/start": {
+      "name": "start"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "..\\assets"
+  },
+  "organizationName": "<Kriti0802>",
+  "projectName": "<Atri_web_dev_Projects>"
+}

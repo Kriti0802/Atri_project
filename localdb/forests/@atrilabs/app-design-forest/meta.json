@@ -1,0 +1,18 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "2a2044c3-90af-45cb-bbb9-679ada8e4900": {
+      "name": "App",
+      "id": "2a2044c3-90af-45cb-bbb9-679ada8e4900",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root",
+    "9c32bfa5-faa9-48d8-a3f1-f0f900631a84": "root"
+  }
+}
